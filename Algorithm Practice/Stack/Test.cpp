@@ -4,7 +4,7 @@ using namespace std;
 
 void dummyMethod()
 {
-	cout<<"Welcome to Coding\n";
+	cout<<"Welcome to Coding - Shaival\n";
 }
 
 int main()
